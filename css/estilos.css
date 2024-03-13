@@ -1,0 +1,148 @@
+.contenedorprin1
+{
+background-color: coral;
+padding: 20px;
+display: flex;
+flex-wrap:wrap;
+justify-content: space-between;
+ 
+}
+.contenedor1{
+ 
+ background-color:blue;
+  width: 320px;
+  height: 520px;
+  margin: 20px;
+ display:fixed;
+
+}
+.caja1{
+ background-color:red;
+ width: 125px;
+ height: 220px;
+ margin: 15px;
+   float: left;
+  
+}
+.caja2{
+ background-color:red;
+ width: 125px;
+ height: 220px;
+margin: 15px;
+  float: left;
+}
+.caja3{
+ background-color:red;
+ width: 125px;
+ height: 220px;
+margin: 15px;
+  float: left;
+}
+.caja4{
+ background-color:red;
+ width: 125px;
+ height: 220px;
+margin: 15px;
+  float: left;
+}
+.contenedor2{
+background-color:olive;
+  width: 450px;
+  height: 520px;
+  margin: 20px;
+  display: flex;
+  flex-wrap:wrap ;
+   flex-direction:row;
+ 
+ 
+}
+.caja21{
+ background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+ 
+}
+.caja22{
+ background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.caja23{
+ background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 15px;
+}
+.caja24{
+ background-color:green;
+  width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.caja25{
+background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.caja26{
+ background-color:green;
+width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.caja27{
+ background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.caja28{
+ background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.caja29{
+ background-color:green;
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+}
+.contenedor3 {
+  background-color: #7b68ee;
+  width: 280px;
+  height: 520px;
+  margin: 20px;
+  display: fixed;
+}
+
+.caja31 {
+  background-color: yellow;
+  width: 250px;
+  height: 80px;
+  margin: 15px;
+}
+
+.caja32,
+.caja33,
+.caja34,
+.caja35,
+.caja36 {
+  background-color: yellow;
+  width: 100px;
+  height: 120px;
+  margin: 15px;
+  float: left;
+}
+
+
+.caja34 {
+   background-color: yellow;
+  width: 250px;
+ height: 80px;
+  margin: 15px;
+}
+}
